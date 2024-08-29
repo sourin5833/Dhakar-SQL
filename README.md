@@ -26,3 +26,4 @@
 | 22 | Average Time For Processor | Leetcode | <a href="https://leetcode.com/problems/average-time-of-process-per-machine">Link</a> | [processor.sql](processor.sql) | ❌ |
 | 23 | Manager With Five Reports | Leetcode | <a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports">Link</a> | [manager5.sql](manager5.sql) | ❌ |
 | 24 | Confirmation Rate | Leetcode | <a href="https://leetcode.com/problems/confirmation-rate">Link</a> | [confirmation.sql](confirmation.sql) | ❌ |
+| 25 | Monthly Transactions I  | Leetcode | <a href="https://leetcode.com/problems/monthly-transactions-i">Link</a> | [monthly_trans1.sql](monthly_trans1.sql) | ❌ |
