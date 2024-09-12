@@ -18,8 +18,8 @@
 | 14 | Find Followers Count | Leetcode | <a href="https://leetcode.com/problems/find-followers-count">Link</a> | [followers.sql](followers.sql) | ✅ |
 | 15 | Project Employees I | Leetcode | <a href="https://leetcode.com/problems/project-employees-i">Link</a> | [project_emp1.sql](project_emp1.sql) | ✅ |
 | 16 | Employee Bonus | Leetcode | <a href="https://leetcode.com/problems/employee-bonus">Link</a> | [bonus.sql](bonus.sql) | ✅ |
-| 17 | Students and Examinations | Leetcode | <a href="https://leetcode.com/problems/students-and-examinations">Link</a> | [exams_student.sql](exams_student.sql) | ❌ |
-| 18 | Average Selling Price | Leetcode | <a href="https://leetcode.com/problems/average-selling-price">Link</a> | [average_sale.sql](average_sale.sql) | ❌ |
+| 17 | Students and Examinations | Leetcode | <a href="https://leetcode.com/problems/students-and-examinations">Link</a> | [exams_student.sql](exams_student.sql) | ❌❌ |
+| 18 | Average Selling Price | Leetcode | <a href="https://leetcode.com/problems/average-selling-price">Link</a> | [average_sale.sql](average_sale.sql) | ❌❌ |
 | 19 | Percentage Of Users | Leetcode | <a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest">Link</a> | [percentage.sql](percentage.sql) | ❌ |
 | 20 | Biggest Single Number | Leetcode | <a href="https://leetcode.com/problems/biggest-single-number/submissions/1339778105">Link</a> | [big_single.sql](big_single.sql) | ❌ |
 | 21 | Query Quality and Percentage | Leetcode | <a href="https://leetcode.com/problems/queries-quality-and-percentage">Link</a> | [quality%.sql](quality%.sql) | ❌ |
