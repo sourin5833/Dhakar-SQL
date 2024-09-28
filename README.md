@@ -13,7 +13,7 @@
 | 9 | Customer Without Transaction | Leetcode | <a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions">Link</a> | [no_transaction.sql](no_transaction.sql) | ✅ |
 | 10 | Rising Temperature | Leetcode | <a href="https://leetcode.com/problems/rising-temperature">Link</a> | [temperature.sql](temperature.sql) | ✅ |
 | 11 | Unique Subjects | Leetcode | <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher">Link</a> | [subjects.sql](subjects.sql) | ✅ |
-| 12 | User Activity | Leetcode | <a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i">Link</a> | [users.sql](users.sql) | ❌❌ |
+| 12 | User Activity | Leetcode | <a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i">Link</a> | [users.sql](users.sql) | ✅ |
 | 13 | Classes More Than Five | Leetcode | <a href="https://leetcode.com/problems/classes-more-than-5-students">Link</a> | [class5.sql](class5.sql) | ✅ |
 | 14 | Find Followers Count | Leetcode | <a href="https://leetcode.com/problems/find-followers-count">Link</a> | [followers.sql](followers.sql) | ✅ |
 | 15 | Project Employees I | Leetcode | <a href="https://leetcode.com/problems/project-employees-i">Link</a> | [project_emp1.sql](project_emp1.sql) | ✅ |
